@@ -2,7 +2,7 @@
 id: qax76d17qsbewm4gp0nmr7r
 title: 2_ModelosDeRed
 desc: ''
-updated: 1681592462624
+updated: 1681913951040
 created: 1681587813931
 ---
 
