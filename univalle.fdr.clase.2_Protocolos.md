@@ -1,29 +1,21 @@
 ---
 id: xca663mkwp1tw27fyykc8ov
-title: 2_ElementosRed
+title: 2_Protocolos
 desc: ''
-updated: 1681585181287
+updated: 1682140786418
 created: 1681582133488
 ---
 
-# Protocolos mas importantes y capas
+# Protocolos mas importantes en las capas
 
-![](/assets/images/2023-04-15-13-41-09.png)
+![](/assets/images/2023-04-15-13-41-09.png) 
 
-## Capas
+# PDU segun la capa en el modelo TCP/IP
 
-Tabla:
-
-| OSI Model                               | TCP/IP Model                                                 |
-| --------------------------------------- | ------------------------------------------------------------ |
-| Application Layer                       | Application Layer <br> Presentation Layer <br> Session Layer |
-| Transport Layer <br> Presentation Layer | Transport Layer <br> Network Layer                           |
-| Network Access Layer                    | Data Link Layer <br> Physical Layer                          |
-
-> **PDU**: Unidades de protocolo de datos utilziados para el intercambie de datos entre capas
-> **Encapsulamiento**: En cada paso se añade informaicon relevante a la capa superior
-
-## Capa de Aplicacion
+- Capa de aplicación: Mensaje
+- Capa de transporte: Segmento (TCP) o Datagrama (UDP)
+- Capa de red: Paquete
+- Capa de enlace de datos: Trama
 
 ### Arquitecturas de aplicacion
 
@@ -37,7 +29,7 @@ Tabla:
 
 **Cliente**: Se comunica con el servidor, puede ser intermitente la conexion, puede tener ip dinamicas, no se comunica entre clientes
 
-### P2P Puta
+### P2P 
 
 Servidor no siempre alerta, sistemas terminales arbitrarios se comunican entre si, pares se conectan intermitentemente y cambian sus IP. Muy escalable.
 

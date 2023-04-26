@@ -2,7 +2,7 @@
 id: nsl3ggqwwt9oqjlesg5rov7
 title: Conceptos
 desc: ''
-updated: 1682120033266
+updated: 1682139692817
 created: 1682113822710
 ---
 
@@ -48,7 +48,7 @@ Una red que utiliza ondas de radio para transmitir datos entre dispositivos. COm
 
 # <a id='Redes-ethernet'>Redes-ethernet</a>
 
-Son redes [LAN](./univalle.fdr.conceptos.md#LAN) que utilizan cables de cobre, generalmente [UTP](./univalle.fdr.conceptos.md#UTP) o [STP](./univalle.fdr.conceptos.md#STP), para transmitir datos a través de un medio físico.
+    Son redes [LAN](./univalle.fdr.conceptos.md#LAN) que utilizan cables de cobre, generalmente [UTP](./univalle.fdr.conceptos.md#UTP) o [STP](./univalle.fdr.conceptos.md#STP), para transmitir datos a través de un medio físico.
 
 # <a id='Redes-de-fibra-optica'>Redes-de-fibra-optica</a>
 
@@ -246,3 +246,7 @@ Un protocolo no orientado a conexión es un protocolo de comunicación en el que
 La principal ventaja de los protocolos no orientados a conexión es que son más rápidos y eficientes que los [Protocolo-orientado-a-conexion](./univalle.fdr.conceptos.md#Protoco-orientado-a-conexion), ya que no se requiere un proceso de establecimiento de conexión previo. Esto significa que pueden manejar grandes cantidades de datos en un corto período de tiempo y son ideales para aplicaciones en tiempo real, como la transmisión de video y audio.
 
 Sin embargo, debido a la falta de verificación de conexión, los protocolos no orientados a conexión pueden ser menos confiables que los protocolos orientados a conexión, ya que los datos pueden perderse o entregarse en un orden diferente al que fueron enviados. Por lo tanto, deben utilizarse en situaciones donde la velocidad es más importante que la confiabilidad, y donde la pérdida ocasional de datos no es crítica.
+
+# <a id='PDU'>PDU</a>
+
+Protocol Data Unit es un término utilizado para describir los diferentes bloques de información que se intercambian entre dispositivos en una red de comunicaciones.
