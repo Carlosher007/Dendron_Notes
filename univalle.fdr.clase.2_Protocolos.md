@@ -2,7 +2,7 @@
 id: xca663mkwp1tw27fyykc8ov
 title: 2_Protocolos
 desc: ''
-updated: 1682140786418
+updated: 1683157792199
 created: 1681582133488
 ---
 
@@ -16,6 +16,7 @@ created: 1681582133488
 - Capa de transporte: Segmento (TCP) o Datagrama (UDP)
 - Capa de red: Paquete
 - Capa de enlace de datos: Trama
+
 
 ### Arquitecturas de aplicacion
 
@@ -54,3 +55,11 @@ Los procesos envian/reciben mensajes a/desde los sockets, que son **analogos a p
 ## Servicios de los protocolos de transporte
 
 ![](/assets/images/2023-04-15-14-01-13.png)
+
+### Diferencia entre TCP y UDP
+
+TCP (Transmission Control Protocol) y UDP (User Datagram Protocol) son dos protocolos de comunicación utilizados en redes de computadoras.
+
+La principal diferencia entre TCP y UDP es que TCP es un protocolo orientado a conexión, mientras que UDP es un protocolo sin conexión. Esto significa que TCP establece una conexión antes de la transmisión de datos, mientras que UDP no lo hace.
+
+En resumen, TCP se utiliza para aplicaciones que requieren una entrega confiable de datos, como el correo electrónico y la navegación web, mientras que UDP se utiliza para aplicaciones en las que la velocidad y la eficiencia son más importantes que la confiabilidad, como la transmisión en tiempo real de video y audio.

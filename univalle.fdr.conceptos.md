@@ -2,7 +2,7 @@
 id: nsl3ggqwwt9oqjlesg5rov7
 title: Conceptos
 desc: ''
-updated: 1682139692817
+updated: 1683670489266
 created: 1682113822710
 ---
 
@@ -48,7 +48,7 @@ Una red que utiliza ondas de radio para transmitir datos entre dispositivos. COm
 
 # <a id='Redes-ethernet'>Redes-ethernet</a>
 
-    Son redes [LAN](./univalle.fdr.conceptos.md#LAN) que utilizan cables de cobre, generalmente [UTP](./univalle.fdr.conceptos.md#UTP) o [STP](./univalle.fdr.conceptos.md#STP), para transmitir datos a través de un medio físico.
+Son redes [LAN](./univalle.fdr.conceptos.md#LAN) que utilizan cables de cobre, generalmente [UTP](./univalle.fdr.conceptos.md#UTP) o [STP](./univalle.fdr.conceptos.md#STP), para transmitir datos a través de un medio físico.
 
 # <a id='Redes-de-fibra-optica'>Redes-de-fibra-optica</a>
 
@@ -250,3 +250,7 @@ Sin embargo, debido a la falta de verificación de conexión, los protocolos no 
 # <a id='PDU'>PDU</a>
 
 Protocol Data Unit es un término utilizado para describir los diferentes bloques de información que se intercambian entre dispositivos en una red de comunicaciones.
+
+# <a id='RTT'>RTT</a>
+
+Ruunt Trip time: Tiempo ocupado en enviar un paquete pequeño desde el cliente al servidor y su regleso
