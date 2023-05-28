@@ -1,3 +1,10 @@
+---
+id: byb3eqdsshvzqyvkfkn117i
+title: 6_Nose
+desc: ''
+updated: 1684527502570
+created: 1684527502570
+---
 Necistamos comunicacion entre host y cliente, por lo que necesitamos un adaptador de tipo fuente.
 
 > En la maquina virtual, en  Red
