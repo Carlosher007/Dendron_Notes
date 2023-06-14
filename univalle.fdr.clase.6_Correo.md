@@ -2,7 +2,7 @@
 id: 1tfq51j4gph04u1rm6kfi7c
 title: 6_Correo
 desc: ''
-updated: 1684979202150
+updated: 1685582884988
 created: 1684969917525
 ---
 
@@ -136,7 +136,7 @@ Los dominios existen para poder recodarlos como usuarios, pues es mas facil que 
 
 Loos DNS Root NAME actuan como unca capa superior de todas en las que consulta para saber que esta en tal servidor.
 
-REGISTRO TIPO **A** ASOCIADO DOMINIO CON IP
+REGISTRO TIPO **A** ASOCIADO DOMINIO CON IP (ASOCIA DIR<ECCION IP CON EL HOST)
 REGISTRO TIPO **MX** ASOCIADO DOMINIO CON SERVIDOR DE CORREO
 REGISTRO TIPO **CNAME** ASOCIADO DOMINIO CON OTRO DOMINIO (Diferentes nombres apuntado a la misma direccion IP)
 REGISTRO TIPO **NS** LO ALMACENA UN SERVIDOR DNS PARA PODER REFERENCIAR A OTRO SERVIDOR DNS
